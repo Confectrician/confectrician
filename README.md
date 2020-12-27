@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on many things for the openHAB community and organisation
+- I have no soundcloud or something like that but you can check out my :bird: [Twitter](https://twitter.com/Confectrician) profile where i sometimes tweet about my open source activities here.
+- Also don't forget to :musical_score: _get schwifty_ sometimes. 
+
+
 <!--
 **Confectrician/confectrician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
